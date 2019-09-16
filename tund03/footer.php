@@ -1,0 +1,1 @@
+<strong><p align="center" style="text-decoration:underline"><a href="#up"> Bring me Up &#8613  </a> OR if You want to contact the author please<a href="mailto:winlanto@tlu.com"> Write to email</a>. Also visit <a target="_blank" href="https://www.tlu.ee/"> Tallinn University </a> page.</p></strong>
