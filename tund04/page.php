@@ -3,7 +3,7 @@
 	$photoDir = "../photos/";
 	$picFileTypes = ["image/jpeg", "image/png"];
 	$hourNow = date("H");
-	$partOfDay = "hägune aeg";
+	$partOfDay = "";
 	if($hourNow >= 5 and $hourNow < 8){
 			$partOfDay = "varane hommik";
 	}
@@ -62,6 +62,12 @@
 	//echo $allPhotos;
 	
 	//Kuu ja nädalapäevade massiiv
+ // $dateNow = date("d");
+ // $monthNow = date("m");
+ // $yearNow = date("Y");
+ // $timeNow = date("H:i:s");
+//  $fullTimeNow = date("d.m.Y H:i:s");
+  //$hourNow = date("H");
 	$dayOfWeek = date("N");
 	$weekDays = ["Esmaspäev", "Teisipäev", "Kolmapäev", "Neljapäev", "Reede", "Laupäev", "Pühapäev"];
 		$dayOfWeekNow = $weekDays[$dayOfWeek-1];
